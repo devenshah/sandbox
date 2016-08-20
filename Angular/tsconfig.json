@@ -1,7 +1,7 @@
 {
     "compilerOptions":{
 	        "target": "es5",
-	        "outFile": "../js/app.js",
+	        "outDir": "scripts",
 	        "sourceMap": true
 	    }
 }
